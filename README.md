@@ -5,6 +5,6 @@
 
   # milliechapman's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[milliechapman.github.io/research-website](https://milliechapman.github.io/research-website)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
